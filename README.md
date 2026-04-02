@@ -1,13 +1,5 @@
-## Projects
-
-### Land Use Map
-![Land Use](zoning_map.png)
-
-### Road Network Analysis
-![Road Network](infrastructures-07-00114-g002.png)
-
-### Georeferencing
-![Georeferencing](rasterize.png)
-
-## Tools
-QGIS, Google Earth
+<p align="center">
+  <img src="zoning_map.png" width="250"/>
+  <img src="infrastructures-07-00114-g002.png" width="250"/>
+  <img src="rasterize.png" width="250"/>
+</p>
